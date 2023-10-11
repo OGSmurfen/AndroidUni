@@ -23,6 +23,6 @@ If you do get caught I do not bear any responsibility for ur reckless actions !!
 
 
 
-Note: All the above info is roll (saying this just so I do not get into trouble) !!
+Note: All the above info is troll (saying this just so I do not get into trouble) !!
 
 Signing out !!
