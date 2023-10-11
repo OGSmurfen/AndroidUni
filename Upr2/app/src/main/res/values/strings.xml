@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">\Validator 2.0</string>
+    <string name="insert_name">Insert name</string>
+    <string name="insert_email">Insert email</string>
+    <string name="insert_phone">Insert phone</string>
+    <string name="insert_DOB">DD/MM/YYYY of birth</string>
+    <string name="insert_height">Insert height in meters</string>
+
+    <string name="nameAlert">Min length 5 !</string>
+    <string name="mailAlert">This aint no email !</string>
+    <string name="phoneAlert">Write real phone !</string>
+    <string name="DOBalert">Not a DOB !</string>
+    <string name="eightAlert">Insert height, mane !</string>
+
+</resources>
