@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">upr3</string>
+    <string name="buttonOne">Submit</string>
+    <string name="nameFieldHint">Name</string>
+    <string name="errorNumberSymbols">More than 5</string>
+    <string name="a2_nest">Next</string>
+    <string name="a2_Back">Back</string>
+    <string name="a2_name">Name</string>
+    <string name="a2_years">Age</string>
+    <string name="a2_address">Address</string>
+    <string name="a2_city">City</string>
+</resources>
